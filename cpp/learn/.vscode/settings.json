@@ -1,0 +1,6 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_BUILD_TYPE": "DEBUG",
+        "CMAKE_CXX_FLAGS_DEBUG": "-g -O0"
+    }
+}
